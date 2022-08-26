@@ -1,0 +1,7 @@
+C:\Users\nurse\source\repos\HGS\obj\Debug\HGS.csproj.AssemblyReference.cache
+C:\Users\nurse\source\repos\HGS\obj\Debug\HGS.csproj.CoreCompileInputs.cache
+C:\Users\nurse\source\repos\HGS\bin\Debug\HGS.exe.config
+C:\Users\nurse\source\repos\HGS\bin\Debug\HGS.exe
+C:\Users\nurse\source\repos\HGS\bin\Debug\HGS.pdb
+C:\Users\nurse\source\repos\HGS\obj\Debug\HGS.exe
+C:\Users\nurse\source\repos\HGS\obj\Debug\HGS.pdb
